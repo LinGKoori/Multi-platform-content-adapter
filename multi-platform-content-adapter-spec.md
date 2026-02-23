@@ -1,4 +1,4 @@
-# Multi-Platform Content Adapter --- Skill Specification
+# Multi-Platform Content Adapter
 
 ## 1. Overview
 
