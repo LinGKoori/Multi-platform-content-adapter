@@ -119,45 +119,15 @@ The system applies platform-specific transformation rules to ensure
 content is optimized for structure, tone, and engagement patterns of
 each communication channel.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------
-  Platform         Character      Tone Style            Structure    Engagement Strategy Formatting Rules  CTA Style       Example
-                   Limit                                                                                                   Transformation
-                                                                                                                           Behavior
-  ---------------- -------------- --------------------- ------------ ------------------- ----------------- --------------- ----------------
-  **X (Twitter)    ≤ 280 chars    Concise,              Hook → Key   Curiosity-driven,   Short sentences,  Direct action   Compress long
-  --- Single                      attention-grabbing,   message →    shareable phrasing, emojis optional,  CTA             message into
-  Post**                          high-energy           CTA          strong opening      hashtags optional                 punchy statement
-                                                                                                                           with strong hook
-
-  **X (Twitter)    Multi-post     Storytelling,         Hook →       Retention-focused   Numbered posts,   Follow/read     Split article
-  --- Thread**                    sequential            Context →    flow, progressive   logical sequence  more CTA        into structured
-                                                        Value →      reveal                                                multi-post
-                                                        Conclusion →                                                       narrative
-                                                        CTA                                                                
-
-  **LinkedIn       1,000--3,000   Professional,         Context →    Thought leadership, Structured        Soft conversion Convert
-  Post**           chars typical  insight-driven        Insight →    credibility         paragraphs,       or discussion   announcement
-                                                        Takeaway →                       minimal emojis    CTA             into industry
-                                                        CTA                                                                insight
-
-  **Telegram       Flexible       Direct, informative   Headline →   Information clarity Bullet points,    Strong action   Convert content
-  Announcement**                                        Key update →                     simple layout     CTA             into clear
-                                                        Details →                                                          announcement
-                                                        CTA                                                                format
-
-  **Discord        Short-medium   Casual,               Context →    Conversational      Short lines,      Community       Rewrite message
-  Announcement**                  community-friendly    Update →     tone, community     simple language   participation   in friendly tone
-                                                        Community    focus                                 CTA             
-                                                        relevance                                                          
-
-  **Instagram      \~125--2,200   Emotional, expressive Hook → Story Relatable messaging Emoji-friendly,   Engagement CTA  Add
-  Caption          chars                                → CTA                            line breaks                       storytelling +
-  (Future)**                                                                                                               visual context
-
-  **Newsletter     Medium         Informative           Summary →    Informational       Structured        Link-driven CTA Convert long
-  Summary                                               Value → Next clarity             sections                          article into
-  (Future)**                                            steps                                                              digest summary
-  -----------------------------------------------------------------------------------------------------------------------------------------
+| Platform                        | Character Limit           | Tone Style                               | Structure                                 | Engagement Strategy                                  | Formatting Rules                                    | CTA Style                         | Example Transformation Behavior                              |
+| ------------------------------- | ------------------------- | ---------------------------------------- | ----------------------------------------- | ---------------------------------------------------- | --------------------------------------------------- | --------------------------------- | ------------------------------------------------------------ |
+| **X (Twitter) — Single Post**   | ≤ 280 chars               | Concise, attention-grabbing, high-energy | Hook → Key message → CTA                  | Curiosity-driven, shareable phrasing, strong opening | Short sentences, emojis optional, hashtags optional | Direct action CTA                 | Compress long message into punchy statement with strong hook |
+| **X (Twitter) — Thread**        | Multi-post                | Storytelling, sequential                 | Hook → Context → Value → Conclusion → CTA | Retention-focused flow, progressive reveal           | Numbered posts, logical sequence                    | Follow/read more CTA              | Split article into structured multi-post narrative           |
+| **LinkedIn Post**               | 1,000–3,000 chars typical | Professional, insight-driven             | Context → Insight → Takeaway → CTA        | Thought leadership, credibility                      | Structured paragraphs, minimal emojis               | Soft conversion or discussion CTA | Convert announcement into industry insight                   |
+| **Telegram Announcement**       | Flexible                  | Direct, informative                      | Headline → Key update → Details → CTA     | Information clarity                                  | Bullet points, simple layout                        | Strong action CTA                 | Convert content into clear announcement format               |
+| **Discord Announcement**        | Short-medium              | Casual, community-friendly               | Context → Update → Community relevance    | Conversational tone, community focus                 | Short lines, simple language                        | Community participation CTA       | Rewrite message in friendly tone                             |
+| **Instagram Caption (Future)**  | ~125–2,200 chars          | Emotional, expressive                    | Hook → Story → CTA                        | Relatable messaging                                  | Emoji-friendly, line breaks                         | Engagement CTA                    | Add storytelling + visual context                            |
+| **Newsletter Summary (Future)** | Medium                    | Informative                              | Summary → Value → Next steps              | Informational clarity                                | Structured sections                                 | Link-driven CTA                   | Convert long article into digest summary                     |
 
 ------------------------------------------------------------------------
 
